@@ -2,10 +2,17 @@
 layout: default
 ---
 
+<p>Hi!</p>
+
+<p>I'm a software engineer at <a href="https://gumroad.com">Gumroad</a>, a pretty damn cool payments startup.</p>
+
+<p>I write <a href="https://github.com/bengl">code</a> and do all kinds of other stuff too.</p>
+
+<p>I'm from Ottawa, Canada, and I live in San Francisco.</p>
+
+<h4>Some blog posts, (I'm sorry I don't blog much):</h4>
 <ul>
-  {% for post in site.posts %}
-  <li>
-    {{ post.date | date_to_string }}<a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul
+{% for post in site.posts %}
+  <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

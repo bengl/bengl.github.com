@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#all {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 650px;
+  min-width: 250px;
+
+}
+
+#title_header {
+  background: #555;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+#name_header {
+  background: #777;
+  font-size: 4em;
+  border-radius: 7px;
+  padding: 5px;
+}
+
+#small_header {
+  margin-top: 0.5em;
+}
+
+.post_title {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.post_date {
+  font-style: italic;
+}
+
+#footer {
+  margin-top: 2em;
+  text-align: center;
+}
+
+#footer hr {
+  width: 100px;
+}
+
+#copyright {
+  font-style: italic;
+  color: #777;
+}
