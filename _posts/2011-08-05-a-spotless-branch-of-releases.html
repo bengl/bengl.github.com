@@ -1,0 +1,34 @@
+---
+layout: post
+title: A Spotless Branch of Releases
+---
+
+<p>When setting up our new production environment for <a title="SaveUp" href="http://www.saveup.com">SaveUp</a>, we decided that we wanted to override a lot of capistrano's core functionality and use git to handle a lot of things. In particular we wanted to to roll back our code by instructing capistrano to go back one commit in git (<code>git reset --hard HEAD^</code>). Many people <a title="use tags" href="http://nvie.com/posts/a-successful-git-branching-model/">use tags</a> for this and it works great that way, but it's harder to automate a rollback action unless the tags have a very rigid set of naming rules (like version numbers). We instead decided that having a release branch with one commit per release would enable us to use git for rolling back without making any naming assumptions apart from what branch we're on.</p>
+
+<h4>Squash It</h4>
+
+<p>The first thing we thought to do was use <code>git merge --squash</code> to gather everything together in one commit. Assuming <code>master</code> and a <code>prod</code> branch, we'd do the following:</p>
+
+<ol>
+  <li><code>git checkout prod</code></li>
+  <li><code>git merge --squash master</code></li>
+  <li><code>git commit -m "release X" # for some value of X</code></li>
+</ol>
+
+<p>Doing this every time we did a release would give us a branch with only releases on it so our intended method of rolling back code would work just fine.</p>
+
+<p>This system was fine until the merge conflicts started happening. After the first few releases, we ran into merge conflicts every time we tried the squash merge. What happened was the two branches diverged and our <code>prod</code> branch now had its own history separate from master. Since the branches diverged starting at the creation of the <code>prod</code> branch, every commit on that branch appeared different from <code>master</code>, so git treated it as two different branches of development in need of merging, as well it should. Our workaround for this was to instruct git to always choose <code>master</code>'s changes using <code>git merge -Xtheirs master</code>. This didn't seem quite right though, so we searched for a better solution. In addition, in tools like GitX, the <code>production</code> branch didn't appear in line with <code>master</code> and was instead further down the tree.</p>
+
+<h4>Merge It</h4>
+
+<p>The solution was to merge the <code>prod</code> branch back into <code>master</code> after each release commit (thanks go to <a title="Braintree" href="http://www.braintreepayments.com/devblog/our-git-workflow">Braintree</a> for this one). This allows the branches to remain in sync so that git doesn't go along thinking there are conflicts when there are none. All the commits on the <code>production</code> branch end up in <code>master</code>, so when doing the next squash merge into <code>prod</code>, there are no commits on <code>prod</code> for <code>master</code> to conflict with. The result of all this is a spotless branch with nothing but commits on it, while still being in sync with <code>master</code>. Here's what an example repo looks like after a few of these releases, as rendered in GitX:</p>
+
+<p><img src="/images/branch_merge.png" alt="merging diagram" /></p>
+
+<p>You'll notice that there's no indication that the release commits are merged from master. This is because when you use <code>--squash</code>, git doesn't actually create a merge. If it did, you'd have all the commits in <code>master</code> appearing in <code>prod</code>'s history, which is not what we want here.</p>
+
+<p><strong>Other Branches</strong></p>
+
+<p><strong></strong>Like most companies, we develop on multiple branches, and most often don't release off <code>master</code>. We use release branches for each release and hotfix branches after the release. We use the same method as above for releasing off these branches, and merge back into <code>master</code> after doing the merge back into the hotfix or release branch. The individual releases on <code>prod</code> make for great places to branch off for hotfixes, in the same way they would if they were tags.</p>
+
+<p>I hope someone finds this useful and uses it in their setup. Git is very flexible, so there are other ways one could go about building their release system in git. This one may not be the best one but I think we've done well with it and it works for us. I'd like to learn more about what other people do to solve this problem, so if you've got some ideas, let me know! </p>
