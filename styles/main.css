@@ -27,11 +27,11 @@ body {
 }
 
 #small_header {
-  color: #d0d0d0;
+  color: #999;
   font-weight: 300;
   display: block;
   margin-top: 0.5em;
-  border-bottom: 1px solid #d0d0d0;
+  border-bottom: 1px solid #999;
   padding:  0 0 5px;
 }
 
@@ -58,4 +58,9 @@ body {
 #copyright {
   font-style: italic;
   color: #777;
+}
+
+img {
+  max-width: 550px;
+  min-width: 250px; 
 }
