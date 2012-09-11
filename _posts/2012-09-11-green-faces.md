@@ -3,7 +3,7 @@ layout: post
 title: Green Faces (or How to Hack Your Metabolism)
 ---
 
-On August 21, while having dinner at a local restaurant, a conversation about health and diet erupted between me and my coworkers. I mentioned a desire to lose some unecessary weight, and some others mentioned similar goals. One of us suggest a diet called Green Faces. In its simplest and strictest form, there are 3 possible things you are allowed to consume on this crazy diet:
+On August 21, while having dinner at a local restaurant, a conversation about health and diet erupted between me and my coworkers. I mentioned a desire to lose some unecessary weight, and some others mentioned similar goals. One of us suggested a diet called Green Faces. In its simplest and strictest form, there are 3 possible things you are allowed to consume on this crazy diet:
 
  * Green vegetables.
  * Things that had (or would have had, given proper gestation) faces.
