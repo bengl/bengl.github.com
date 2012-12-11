@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Doom on the Web - Details</title>
+  </head>
+  <body>
+    <h2>Details for the Doom on the Web demo</h2>
+    <hr>
+    <h3>Usage</h3>
+    <ul>
+      <li>The demo works well on Firefox and Safari. Works, but slowly, on Opera.
+          Extremely slow on Chrome due to <a href="http://code.google.com/p/v8/issues/detail?id=947">V8 issue 947</a>.</li>
+      <li>Use the normal Doom keyboard controls: For the menu, arrow keys and enter; for the game, arrow keys,
+          control, space and alt (hold to strafe).</li>
+      <li>Use your browser's zoom to adjust the screen size (usually control + and control -).</li>
+      <li>Loading and saving games <i>do</i> work, but only until you leave the page. TODO: Use IndexedDB for persistent storage.</li>
+    </ul>
+    <h3>Technical details</h3>
+    <ul>
+      <li>The Doom source code was compiled from C to JavaScript using <a href="http://emscripten.org">Emscripten</a> and <a href="http://clang.llvm.org/">Clang</a>. Optimized using the <a href="http://code.google.com/p/closure-compiler/">Closure Compiler</a>.</li>
+      <li>Doom renders and handles input using the <a href="http://www.libsdl.org/">SDL</a> API, which Emscripten implements in JavaScript.</li>
+      <li>Video output is done by an HTML canvas element.</li>
+      <li>Typed arrays are used for additional speed, if available in your browser.</li>
+      <li>Uses only well-accepted web standards. The only
+          exception is audio which is done using the <a href="https://wiki.mozilla.org/Audio_Data_API">
+          Mozilla Audio Data API</a>, as sadly there is no universal standard for a simple, usable audio API yet. (The
+          demo will still run if the Audo Data API is not present, just without sound.)</li>
+    </ul>
+    <h3>Additional notes</h3>
+    <ul>
+      <li>Thank you to <a href="http://www.idsoftware.com">id Software</a> for releasing the Doom source code under the GPL!
+          Please go to their website and buy their stuff :)</li>
+      <li>Complete source code for this demo is <a href="source.tar.bz2">here</a>.</li>
+    </ul>
+    <hr>
+    <b><a href="doom.html">Back to the demo</a></b>
+  </body>
+</html>
+
