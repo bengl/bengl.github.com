@@ -25,4 +25,4 @@ The financing scheme they offer is compelling. 10% down with 2.95% APR over 63 m
 
 All this being said, I probably won't get one in the next 6 months or so. I simply have no place to park it. I'm not going to leave it outside on the street in the Mission. That's pretty much asking for it. Also, The nearest free superchargers are in Gilroy and Sacramento. Both are day-trippable, but considerably out of my way.
 
-I can't really describe the acceleration well enough. Also, as the salesman noted, I'm not the greatest driver, so your mileage may vary (literally). I encourage you to book a test-drive at the nearest dealer and try it yourself.
+I can't really describe the acceleration well enough. Also, as the salesman seemed to be hinting, I'm not the greatest driver, so your mileage may vary (literally). I encourage you to book a test-drive at the nearest dealer and try it yourself.
