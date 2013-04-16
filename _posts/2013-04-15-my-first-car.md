@@ -1,0 +1,28 @@
+---
+layout: post
+title: My First Car 
+---
+
+I'd like to talk about my first car. The thing is, I haven't had a first car. Sure I've driven a bunch of cars before, but I've never owned them. It's always been either my parents', my employers', friends' or car-sharing cars. However, I'm fairly certain that I've now driven what will be my first car. This weekend, I went to a Tesla store and did a test drive of the Model S. It's a beast of a car, and at some point in the near future, I'm pretty sure I'm going to buy one.
+
+First, let's talk about the dealership. The one I went to is in Santana Row, San Jose, which is a huge pedestrian mall with giant parking garages behind all the buildings. The store is more or less in the middle and they have 2 Model Ss and one roadster on display, along with a torn down fram with just the wheels, motor and giant-ass battery pack for the Model S. There's not much else in the shop. If you want to order a car, they'll hand you an iPad with the order form open. There are a few TVs with some tech info, that's about it. Interestingly, tourists were everywhere taking photos of the cars and even the logos outside the shop, as if it was a UNESCO World Heritage Site or something. Note even Apple stores get that kind of treatment. 
+
+So I walked in there, somewhat sheepishly, and said "So I made a reservation for 1:30" to the first salesperson to to come my way. Gasps could be heard among the tourists. After a few agreements were clicked on an iPad, I was led out back to one of the parking garages, and there sat four Model Ss ready for takeoff. They were all plugged in to Tesla-branded outlets. The salesman unplugged ours, a brown one, and we were off.
+
+![This Tesla Model S isn't brown, but all the other pictures suck.](http://www.blogcdn.com/www.autoblog.com/media/2012/09/2012-tesla-model-s-fd.jpg)
+
+The car like a normal automatic, except you don't get the slight jerk when it switches gears internally. Because there are no gears. Also it accelerates like nothing else I've ever experienced on a road. I do mean that. It felt *dangerous*. When we went around a circular onramp for the freeway, the salesman informed me that I could go much faster than an ordinary car. So I gave it a shot, and felt the G-forces. So long as you keep your hands on the wheel, I don't think there's any real physics reason why you can't do your freeway accelerating on the circular portion of the onramp. The car weighs so much that it didn't even lean through the corner.
+
+The weirdest part was regenerative braking. That takes getting used to. When your foot isn't on the accelerator (I can't rightfully call it a gas pedal), the regenerative braking is on, so it always feels like the brakes are on, but really it's just a badass alternator addming miles onto the cars range. So there is no coasting. Only acceleration and regenerative braking. It's weird as hell, but I could get used to it.
+
+The interior is all luxury-car-like. There's no center console since the engine is in the back and it's a rear-wheel-drive. The shifter is at the steering wheel base, just like a minivan. However, it's all switches; there's nothing mechanical. It feels fake, and that's because it is. All you're doing is switching which direction the motor is moving, and then pushing a button to put it in park. I couldn't find an e-brake, but I'm sure it's there somewhere. 
+
+The turn signal is in a weird spot. If the wheel is a clock and the turn signal is normally at 10 o'clock, in the Model S it's at 8 o'clock. There's another less useful lever at 10 o'clock which makes it confusing. The good news here is that the turn signal lever is much bigger, so if you just wave your hand around, you'll eventually find it. I won't talk about the giant iPad like thing that sits where the radio and climate controls should be, since you've already read tomes about it elsewhere.
+
+Charging is rather interesting. They provide plugs for 110V and 240V, since they don't use standard electric car charging plugs (for reference, the Chevy Volt does). Tesla seems to be like Apple when it comes to standard connectors. Their free supercharging stations have all the necessary equipment, so that's great. But the nearest one is at least 1.5 hours away. However, if you hook up 2 240V lines in your garage you can can charge it to 100% from 0% inside 5 hours. Not the exactly comparable to refills of gasoline, but not terrible either.
+
+The financing scheme they offer is interesting. 10% down with 2.95% APR over 63 months. Of course, it costs $5000 to order, and that $5000 will go towards your downpayment upon delivery (which takes 1-3 months). The cool part about this is that in California, you'd get $10k in tax credits, which more than covers the downpayment. Things get interesting after 3 years. In their words, they'll buy it back for "the same residual value percentage as the iconic Mercedes S Class". What does that mean? It's looks like a lease and smells like a lease, but technically it's a tax loophole around a lease. The tax credits don't apply to leases, so this is Tesla's workaround. Brilliant.
+
+All this being said, I probably won't get one in the next 6 months or so. I simply have no place to park it. I'm not going to leave it outside on the street in the Mission. That's pretty much asking for it. Also, The nearest free superchargers are in Gilroy and Sacramento. Both are day-trippable, but considerably out of my way.
+
+I can't really describe the acceleration well enough. Also, as the salesman noted, I'm not the greatest driver, so your mileage may vary (literally). I encourage you to book a test-drive at the nearest dealer and try it yourself.
