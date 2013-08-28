@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: oldpost
 title: ANSI Colors 
 ---
 

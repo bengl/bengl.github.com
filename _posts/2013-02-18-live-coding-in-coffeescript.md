@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: oldpost
 title: Live Coding in CoffeeScript 
 ---
 
