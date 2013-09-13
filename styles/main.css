@@ -20,6 +20,11 @@ body {
   text-align: center;
 }
 
+#title_link {
+  text-decoration: none;
+  color: black;
+}
+
 #name_header {
   font-size: 5.5em;
   font-weight: 400;  
