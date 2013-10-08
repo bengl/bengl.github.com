@@ -1,0 +1,16 @@
+---
+layout: post
+title: Facebookless
+---
+
+For about a week and a few hours (almost exactly as long as the US government shutdown), I've been without Facebook. I took the plunge and deactivated my Facebook account. For those who don't know, deactivation is not permanent. My account can be reactivated at any time by simply logging in. I'm not the first person to get on the quit-Facebook train, nor are my reasons unique. I'm still on Twitter and the responses to this have varied from "Privacy is dead, just deal with it!" to "I quit Facebook years ago and feel better for it!". Lost of people seem to have opinions on this and whether it's worth it.
+
+Why did I do this? First of all, I've realized that following people's lives that closely does not make me a happier person. It's actually kind of depressing. In addition, I don't really care about things like what music people are listening to or how far they've run this morning. I'm just not that kind of person. Yes, I know you can just hide these things, but new ones pop up every day and it's annoying. The news feed (for me) is generally just a pile of self-promotion, political ranting and other drivel. 
+
+That's not for enough to want out though. I still got value out Facebook Messages. Unforunately, there's PRISM to deal with. Privacy isn't dead, nor is it something unreasonable to expect in this day and age. We have rights, and we should exercise them and protect them when we can and to the extent that we can. I don't intend for my website to be overly political (but I'm very indecisive, so this may change in the future), so I'm going to leave it at that.
+
+So what's the net effect of this on my life? As much as I hate to admit it, Facebook has been a large part of my day-to-day life since about 2007 (rough estimate). My first thoughts would be that this would be like many people's first attempt at quitting smoking. Indeed, it's not been the easiest. Facebook Messages were my primary method of communicating with some of my good friends, and it's been hard to get them to use alternatives for communicating with me. There are events that I've missed since the invitations were sent out as a Facebook event. There are some actually interesting Facebook posts that I've missed out on. Luckily I've been able to get most relevant information by proxy through my girlfriend, who is still very much active on Facebook. I guess you could say that proves that even when you quit Facebook, it still lingers and affects your social life.
+
+On the bright side, I'm not actually finding myself disconnected. I still communicate daily with the people I was communicating daily with two weeks ago. I still know what's going on in the lives of the people I care about. I don't feel bad at all about missing out on things on Facebook. Most sites and apps I used to log in to via Facebook also have email logins, so I'm not locked out of anything I actually care about accessing. 
+
+One I've noticed is just how pervasive Facebook is. Nearly everywhere I go there's some kind of reference to it. Maybe that's partly because I live in San Francisco, and work in tech, but maybe it's because it's more relevant to people's lives than any other networking site before it. I don't know. I'm only one week in. Let's see how far this goes.
