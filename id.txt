@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This GPG-signed file should always be available at https://bryanenglish.com/id.txt, but is not guaranteed to be, as server outages and other hiccups happen.
+This information is current as of 2014-11-17.
+
+Bio
+===
+My name is Bryan English.
+I am Canadian and live in San Francisco, CA, USA.
+
+Here is a picture of me:
+https://bryanenglish.com/thisisme.jpg
+Here is the SHA256 sum of the picture:
+227e2221e7d62c2c42bdc95855d9f0ec70a9d64d6e98f13ae2c78adf089c7e23
+
+Contact
+=======
+
+
+Email: bryan@bryanenglish.com
+Website: https://bryanenglish.com
+Twitter: bengl
+Github: bengl
+Facebook: bengl
+Freenode IRC: bengl
+OFTC IRC: bengl
+XMPP(+OTR): bengl@jabber.ccc.de
+
+When contacting me by email, please use my public GPG key with ID E6BF5E9E.
+
+
+Crypto
+======
+Current GPG Fingerprint (4096R):
+F2FE 3552 09D6 F280 BF6A B807 FE32 AE04 E6BF 5E9E
+    Find this key at pgp.mit.edu or pool.sks-keyservers.net
+
+Former (Revoked) GPG Fingerprint (4096R):
+12DA A122 E4B0 3089 0F5D A100 02E1 DF2D F935 CE6D
+   Revocation reason: E6BF5E9E is being kept more secure
+
+OTR Fingerprint for XMPP (bengl@jabber.ccc.de):
+A8E72F60 2C18D67E 1FE43F12 CC928490 E725EBB0
+
+TextSecure Fingerprint: 
+05 14 05 b0 d4 8f 5c 14
+11 ab 84 66 be 47 5c ec
+96 f1 f9 48 0d 91 a2 a2
+9f d9 bf de 38 e5 dd f6
+16
+
+Note also that you may find the GPG key ID F68B2B1E associated with me on various keyservers. While I did originally create this key, I have lost the private key, so I not longer use it.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJUaca6AAoJEP4yrgTmv16eMigQAJqjzy8hxT+FIGUX/M+LN5Jo
+Ce5YzitM0ClFqAZcgLuEUq42FfK+QhK2rqMmJP65s4ydOwCPUWPNKCvlLkUYconD
+eRmk7pe27W1JhZJrG40wExWHQXhNHdEt55vF5SELYdETMTTloJ/EmULn9OMvlaOc
+RHB6TbiKW879nuGIeNGCdzLwb98M1pucfrHS2/+oSoslwhcmOxtmxmSJwm0vx2By
+WknwcfaTDZk0v3IuX+w0kNhAFEgd1FhMJoFcfZoi/1/umTaPP2Fzqd49BjnNU+SM
+I7+6S6BfD+uwihdtJ6choYZBGRxrYNibOXECGaw9NoiaDrxitVcmDoqS0hbDNPqq
+hpXRy7YVLzj/1HJnVyyJKTsucfcgINA7ZZlGAl7rek9z3BM9KjbUl+CRyEr8zXVs
+gSVYWQZ+5rMGrzdEXfonFkX1huq7He6ln4zl8XjM82O2jILsIH9x13MIcl+9Rjr4
+j3+mIvSOwHtbLb4TkYLhiYv+ObdTaNlaV+jqO2daDd6B4uSK5kV8DdvhyqiEU40L
+Uxni+uwQn3eiPg+bEGFV6H7qoIJ95HxwGELuDx7GJqRDrZrvWwHmre9FSS8ccwJp
+ss8GXWA+HLKcFWUC7IYzU7RHm0sARDzJaiBIurz2gci6lQkQA/1ro6W/AU0mbwvP
+gZbjewQf641WeIM7BtM1
+=y4P5
+-----END PGP SIGNATURE-----
