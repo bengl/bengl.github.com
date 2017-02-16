@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newpost
 title: Facebookless
 ---
 

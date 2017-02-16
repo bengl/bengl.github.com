@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: newpost
 title: Green Faces (or How to Hack Your Metabolism)
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: newpost
 title: Modern Vim
 ---
 

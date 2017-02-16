@@ -1,8 +1,9 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
+
 This GPG-signed file should always be available at https://bryanenglish.com/id.txt, but is not guaranteed to be, as server outages and other hiccups happen.
-This information is current as of 2016-06-03.
+This information is current as of 2017-02-16.
 
 Bio
 ===
@@ -27,6 +28,7 @@ Freenode IRC: bengl
 
 When contacting me by email, please use my public GPG key with ID 7970799A.
 
+I also have Signal and WhatsApp. Ask via other channels for that info.
 
 GPG Keys
 ========
@@ -37,28 +39,28 @@ Current GPG Fingerprint (4096R):
 
 Old GPG Fingerprint (4096R):
 F2FE 3552 09D6 F280 BF6A B807 FE32 AE04 E6BF 5E9E
-    Find this key via usual keyservers.
+    Find this key via usual keyservers. I don't use it anymore, though, since the key above (7970799A) is kept on smartcard.
 
 Former (Revoked) GPG Fingerprint (4096R):
 12DA A122 E4B0 3089 0F5D A100 02E1 DF2D F935 CE6D
-    Revocation reason: E6BF5E9E is being kept more secure
+    Revocation reason: E6BF5E9E was being kept more secure
 
 Note also that you may find the GPG key ID F68B2B1E associated with me on various keyservers. While I did originally create this key, I have lost the private key, so I not longer use it.
 
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v2
 
-iQIcBAEBCAAGBQJXUo7wAAoJEBRdTg15cHma40AP/3vfJ/Cjww3P8quM/RPZgipD
-SSqjM3nAGWbSw5pDwKU7s44UIqcIm26gyWtSvfNg8F7po2N2c8E+ovi3lZPwbQCo
-P9l6+FVHvESp8x9wS4GFo9OaEX9XMG/n1Ldzo+XhGyAhzR1MIE76gKSr12y+QxcC
-QDpe22dJMt63R8quv3Cabo52NbzEX31e4NE/PaxNy3Ny777TpCJGGtsFsbb/mYDv
-uSmsC52xu4GLdQXKl+vAJg5OnmSMIneX9A89xNCBj/4ARCtmcqAVpW3oXhKt1L4o
-to/dZ/e3FRJ0L9eLiGvTOs9IHcG+60AtFtRqn2Jt4V0S49OkH3HOY8oiwmxVzd/R
-Y45dd8RgfY88jOjuSI/HNsMdXg/bDjY1w5CGZBBchzBLO65qVZ0orZ1wDP8O/6BD
-DD4sdivw+sU1a+zyRYLP31ALouD0+4kx5hPsxTY7ARkdHKSH/0m+EfKj9aVM7zOT
-+qBYEbT84OpDSJOdU/ymte1kzrKUdiwN5wLhMfWqulr16JQbHePjyLl3BG5BBY4v
-dpa3Jj+bgG2ULYtrfOGIbmPuZxZZ79ToLAiytO2jllO2AvuLW6BKwX0oebsm3znL
-GyNdUTaOOxaNhP5IJmp1/YT3ezBIOcrPXD+6pxkPiA7BTQUH/6JX6IrdNxmWpMjy
-yynJTOJ1KCfX5tMXz/uN
-=HY6K
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEN9JmaYA5TyJDt/9FFF1ODXlweZoFAlilZk0ACgkQFF1ODXlw
+eZqUkg/9HJxxg8R9T7Lk9MBx7rlRtHICnPj1u5E6O/ZtnaqYV6FqjbojvLKuGadT
+pXVxTMBe/Odfs4Gvf3AfqhSL+gXCOqtBxGUSPnu0PCcMiBWJRf6tu3201hHE1h1+
+IpiJFLwFMBaqtXTpA+o/2vvXpz/w5abyAApbEB9ii/dylOtd3xT857XbvgwBCuuD
+LTBsv6pkmGvMEPSDPZLRxM9thuHz9gRbCn7WGPJUPneBare9p2UYn8pYmYo1pwPA
+Eypht4yYBp1JE98Q32t10jS1imVDRhNm2m8sxPncDtnlT6KnNBaH+MJGLiizyHD8
+wFqHXjIp9T5QN8HtcgPe5ZzYnRRb3wkAgkpXcmGN/X25eJFgLVpVHOlObifbPFnj
+0HzfRFzKEq2o9eKxit7xANsNXwWvmIB/cVxxZUKuqMjTTh9HaJg6+Dp7TCDuac+q
+BICUkPRCDGJFaXQ0xi5AVSdnZ03oxzLiENQaRWy/okvwXy4yDPvX4Txtd1AaZclN
+GF6UR0bKWg5vQzq0v0Q+UHWvpo2Xe8C39OpD0kZa383PBHEn0lq3LvasJjTYbO47
+FUl0YmkcaKBdcpdgG+bIdcM0PGMF7sOwl3EYPXh5UkzDNSb5TjmmGgNHwRG2EAbS
+4zKJxO5x9ESODkH5XOmahnfxpzlXYSGeC2r4Wb6+yPwsHXVfzzA=
+=Tj9P
 -----END PGP SIGNATURE-----

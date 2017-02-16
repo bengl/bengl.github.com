@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>Bloggish</h1>
+
+<p>So this is a "bloggish" in that it's not quite the same as a blog. That's because it's not a paginated stream of multiple posts. Instead it's one-per page, all linked from here. </p>
+<p>Also, like most people, my opinions, ideas, knowledge and standpoints change over time. I may not agree today with what I wrote a year or two ago (or more!). I mean, I don't even really like my writing style at all in some of these posts. Therefore, tak everything with a grain or two of salt.</p>
+<p>Also, I don't really write posts that much. So there's that.</p>
+
+<p>Anyways here are the bloggish posts:</p>
+<ul>
+{% for post in site.posts %}
+  <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

@@ -1,6 +1,6 @@
 ---
-layout: oldpost
-title: ANSI Colors 
+layout: newpost
+title: ANSI Colors
 ---
 
 I *love* ANSI escape sequences. You can use them to add color to your terminal apps, which I think is all kinds of awesome. I like to throw them anywhere and everywhere, since they're so simple and easily add a bit of readability to output or even input.

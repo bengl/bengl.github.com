@@ -1,6 +1,6 @@
 ---
-layout: oldpost
-title: My First Car 
+layout: newpost
+title: My First Car
 ---
 
 I'd like to talk about my first car. The thing is, I haven't had a first car. Sure I've driven a bunch of cars before, but I've never owned them. It's always been either my parents', my employers', friends' or car-sharing cars. However, I'm fairly certain that I've now driven what will be my first car. This weekend, I went to a Tesla store and did a test drive of the Model S. It's a beast of a car, and at some point in the near future, I'm pretty sure I'm going to buy one.
