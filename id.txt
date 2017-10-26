@@ -1,9 +1,11 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
+This GPG-signed file should always be available at
+https://bryanenglish.com/id.txt, but is not guaranteed tobe, as
+server outages and other hiccups happen.
 
-This GPG-signed file should always be available at https://bryanenglish.com/id.txt, but is not guaranteed to be, as server outages and other hiccups happen.
-This information is current as of 2017-02-16.
+This information is current as of 2017-10-26.
 
 Bio
 ===
@@ -14,7 +16,8 @@ I am Canadian and live in San Francisco, CA, USA.
 Here is a picture of me:
 https://bryanenglish.com/thisisme.jpg
 Here is the SHA256 sum of the picture:
-227e2221e7d62c2c42bdc95855d9f0ec70a9d64d6e98f13ae2c78adf089c7e23
+227e2221e7d62c2c42bdc95855d9f0ec
+70a9d64d6e98f13ae2c78adf089c7e23
 
 Contact
 =======
@@ -26,41 +29,51 @@ Github: bengl
 Facebook: bengl
 Freenode IRC: bengl
 
-When contacting me by email, please use my public GPG key with ID 7970799A.
+When contacting me by email, please use my public GPG key with
+ID DA026EA513BA360F.
 
-I also have Signal and WhatsApp. Ask via other channels for that info.
+I also have Signal and WhatsApp. Ask via other channels for
+that info.
 
 GPG Keys
 ========
 
 Current GPG Fingerprint (4096R):
-37D2 6669 8039 4F22 43B7  FF45 145D 4E0D 7970 799A
-    https://bryanenglish.com/7970799A.asc (Or via usual keyservers)
+54EE 1449 B028 FCC4 3152  101A DA02 6EA5 13BA 360F
+https://bryanenglish.com/DA026EA513BA360F.asc
 
 Old GPG Fingerprint (4096R):
-F2FE 3552 09D6 F280 BF6A B807 FE32 AE04 E6BF 5E9E
-    Find this key via usual keyservers. I don't use it anymore, though, since the key above (7970799A) is kept on smartcard.
+37D2 6669 8039 4F22 43B7  FF45 145D 4E0D 7970 799A
+https://bryanenglish.com/7970799A.asc
+I don't use this key anymore due to the Infineon issue:
+https://www.yubico.com/2017/10/infineon-rsa-key-generation-issue
+
+Older GPG Fingerprint (4096R):
+F2FE 3552 09D6 F280 BF6A  B807 FE32 AE04 E6BF 5E9E
+Switched to 7970799A, since it was kept on a Yubikey.
 
 Former (Revoked) GPG Fingerprint (4096R):
-12DA A122 E4B0 3089 0F5D A100 02E1 DF2D F935 CE6D
-    Revocation reason: E6BF5E9E was being kept more secure
+12DA A122 E4B0 3089 0F5D  A100 02E1 DF2D F935 CE6D
+Switched to E6BF5E9E, since it was being kept more secure.
 
-Note also that you may find the GPG key ID F68B2B1E associated with me on various keyservers. While I did originally create this key, I have lost the private key, so I not longer use it.
-
+Note also that you may find the GPG key ID F68B2B1E associated
+with me on various keyservers. While I did originally create
+this key, I have lost the private key, so I not longer use it.
+I have no reason to believe it was compromised.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEN9JmaYA5TyJDt/9FFF1ODXlweZoFAlilZk0ACgkQFF1ODXlw
-eZqUkg/9HJxxg8R9T7Lk9MBx7rlRtHICnPj1u5E6O/ZtnaqYV6FqjbojvLKuGadT
-pXVxTMBe/Odfs4Gvf3AfqhSL+gXCOqtBxGUSPnu0PCcMiBWJRf6tu3201hHE1h1+
-IpiJFLwFMBaqtXTpA+o/2vvXpz/w5abyAApbEB9ii/dylOtd3xT857XbvgwBCuuD
-LTBsv6pkmGvMEPSDPZLRxM9thuHz9gRbCn7WGPJUPneBare9p2UYn8pYmYo1pwPA
-Eypht4yYBp1JE98Q32t10jS1imVDRhNm2m8sxPncDtnlT6KnNBaH+MJGLiizyHD8
-wFqHXjIp9T5QN8HtcgPe5ZzYnRRb3wkAgkpXcmGN/X25eJFgLVpVHOlObifbPFnj
-0HzfRFzKEq2o9eKxit7xANsNXwWvmIB/cVxxZUKuqMjTTh9HaJg6+Dp7TCDuac+q
-BICUkPRCDGJFaXQ0xi5AVSdnZ03oxzLiENQaRWy/okvwXy4yDPvX4Txtd1AaZclN
-GF6UR0bKWg5vQzq0v0Q+UHWvpo2Xe8C39OpD0kZa383PBHEn0lq3LvasJjTYbO47
-FUl0YmkcaKBdcpdgG+bIdcM0PGMF7sOwl3EYPXh5UkzDNSb5TjmmGgNHwRG2EAbS
-4zKJxO5x9ESODkH5XOmahnfxpzlXYSGeC2r4Wb6+yPwsHXVfzzA=
-=Tj9P
+iQIzBAEBCAAdFiEEVO4USbAo/MQxUhAa2gJupRO6Ng8FAlnyXVYACgkQ2gJupRO6
+Ng8AWBAAgenPp7c6FsYcLS9ZrYreP7M7goZNbHr5mvQ3EAhOXHkSWGQV7RZQ5C1Q
+abrY8/GTHR0lYEoKuknj862fS+2VfJkXLyeTLtSc/Q9NfXes2x2bhTv6YT+cxIOL
+fzlEoS63NxiNm3+/ctlan4Ia9eaJvhQGv3IoSPZstIYywrMwuJ1//Bsv9ML1nbjb
+E3UULVGEM/RU7XwGBQ4tCYOMA0+woRLn/QM3AUl+F1VMn5v3zryTDr5BguHno43d
+8bTXKPgseIhr0a38OjNA1JIQ/ShMuetQ7NIx4nh7jOSyuNx+b8csKD92toXEX/IZ
+jWLFv1BsqoB7RBd/YoPEMKEJAFWSxsmnKbZ5zUN1v/cigGjNTUKc0C1mhoDCzPpM
+j+DtUeuGZLQ9I5ypOWumTmJs0SZdy3zJZJNS2eki3yfVr/7/ehu9Nn54InuPabrA
++MrosotouZX2zzljbRGmkzqdvC/8sdSzGdaL8yS1+a7sxQKWhgqtejdDpMBhAvt8
+QOxqCTaSoq0kNsSwxEx1gfzJOsxOe9p9502bP8yuH20hVTjGmQscyCdk3s0iHNpy
+ZNf98CZV9SdlHxElXWeArpI4gVTj2qCOAvoIt0mM1PJwF3eL0060feOykW31s8WE
+DVNLtSFJK4512oa9PGFpWG8Mz70f2dx2elvNiyPTZ3pPA5UYnJY=
+=mzI1
 -----END PGP SIGNATURE-----
